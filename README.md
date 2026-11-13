@@ -1,4 +1,4 @@
-# Amarachi-Opara
+# Amarachi Opara
 
 ### Data Analyst | Excel | SQL | Power BI | Python
 
