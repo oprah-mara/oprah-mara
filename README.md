@@ -2,7 +2,7 @@
 
 ### Data Analyst | Excel | SQL | Power BI | Python
 
-I'm a Data Analyst passionate about transforming raw data into meaningful insights that support informed decision-making. I enjoy exploring datasets, uncovering trends and patterns, and translating findings into clear, actionable insights through data analysis, reporting, and visualization.
+Data Analyst passionate about transforming raw data into meaningful insights that support informed decision-making. I enjoy exploring datasets, uncovering trends and patterns, and translating findings into clear, actionable insights through data analysis, reporting, and visualization.
 
 My interests include business intelligence, data storytelling, and applying analytical thinking to solve real-world business problems.
 
